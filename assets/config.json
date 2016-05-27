@@ -1,0 +1,17 @@
+{
+    "essential" : {
+            "Labels": ["Oak","Alder","Ash"],
+                
+            "Values": [86,76,23],
+        
+            "Question" : "How much wood could a woodchuck chuck if a woodchuck could chuck wood?",
+        
+            "Reveal" : "Really I don't know whether you would want to eat this, or wear it as a hat. It's a very striking image, but it starts to take you away from food. You could put it on your wall and enjoy it a lot. I am not sure, though, that you would actually want to eat it.",
+        
+            "sourceText":["ONS"],
+            "sourceURL":["https://www.ons.gov.uk/"
+			]
+    }
+}
+
+
